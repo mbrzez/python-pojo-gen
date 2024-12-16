@@ -1,0 +1,5 @@
+{
+    "xsd_dir": "resources/xsd",
+    "output_dir": "output",
+    "package": "no.skatteetaten.models"
+}
